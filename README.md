@@ -3,13 +3,16 @@
 <h2 align="left">Hi 👋! My name is Kashif-Hussain and I'm a , from Pakistan</h2>
 
 ###
-
-<div align="center">
+<div style="display: flex; align-items: center; justify-content: center; background-color: #1d1f21;">
   <a href="https://github.com/kashif-hussain6">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kashif-hussain6&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Kashif's GitHub Stats" height="180px"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=kashif-hussain6&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Kashif's GitHub Stats" style="height: 175px;"/>
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="180" alt="languages graph" style="margin-left: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" style="height: 175px; margin-left: 10px;" alt="languages graph"/>
 </div>
+
+
+
+
 
 
 
