@@ -42,9 +42,9 @@
 ###
 
 ## Connect with Me
-- **LinkedIn:** [Rashid Ali](https://www.linkedin.com/in/rashid-ali-918823226)
-- **Website:** [PersonalWebsite](https://yourwebsite.com)
-- **Email:** `rashidaliuiux@gmail.com`
+- **LinkedIn:** [Kashif Hussain]()
+- **Website:** [PersonalWebsite]()
+- **Email:** `kashifdayal4@gmail.com`
 
 ###
 
