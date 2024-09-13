@@ -1,9 +1,9 @@
 
-![logo](https://github.com/kashif-hussain6/kashif-hussain6/blob/main/github.png)
-# Hi there, I'm Rashid Ali 👋
 
+# Hi there, I'm Kashif Hussain 👋
 ## About Me
-<h2 align="left">Hi 👋! My name is Kashif-Hussain and I'm a , from Pakistan</h2>
+
+
 
 ###
 <div style="display: flex; align-items: center; justify-content: center; background-color: #1d1f21;">
@@ -17,7 +17,11 @@
 
 
 
-
+## Skills
+- **Languages:** HTML, CSS, JavaScript, TypeScript
+- **Frameworks & Libraries:** ReactJS, Next.js, TailwindCSS, Bootstrap
+- **Design Tools:** Figma, Adobe XD, Canva, Photoshop
+- **Tools & Platforms:** Storybook, Git, GitHub, Visual Studio Code
 
 
 
@@ -45,5 +49,12 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="https://www.linkedin.com/in/kashif-hussain64/"  />
 </div>
+
+## Connect with Me
+- **LinkedIn:** [Rashid Ali](https://www.linkedin.com/in/rashid-ali-918823226)
+- **Website:** [PersonalWebsite](https://yourwebsite.com)
+- **Email:** `rashidaliuiux@gmail.com`
+
+###
 
 
