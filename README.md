@@ -42,8 +42,8 @@
 ###
 
 ## Connect with Me
-- **LinkedIn:** [Kashif Hussain]()
-- **Website:** [PersonalWebsite]()
+- **LinkedIn:** [Kashif Hussain](https://www.linkedin.com/in/kashif-hussain64/)
+- **Website:** [PersonalWebsite](https://portfolio-react-three-chi.vercel.app/)
 - **Email:** `kashifdayal4@gmail.com`
 
 ###
