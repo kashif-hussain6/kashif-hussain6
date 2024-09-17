@@ -40,6 +40,8 @@
 </div>
 
 ###
+## Daily Dev Card 
+<a href="https://app.daily.dev/kashifhusaain"><img src="https://api.daily.dev/devcards/v2/eQLArrZZLJjLxdq5w7uxK.png?type=wide&r=u9d" width="652" alt="Kashif Husaain's Dev Card"/></a>
 
 ## Connect with Me
 - **LinkedIn:** [Kashif Hussain](https://www.linkedin.com/in/kashif-hussain64/)
@@ -47,6 +49,7 @@
 - **Email:** `kashifdayal4@gmail.com`
 
 ###
+
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
