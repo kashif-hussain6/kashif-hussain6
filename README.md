@@ -3,6 +3,21 @@
 # Hi there, I'm Kashif Hussain 👋
 ## About Me
 
+I’m a frontend developer with over 2 years of experience building responsive and user-friendly web applications using React and Next.js. I specialize in turning Figma and PSD designs into clean, high-quality websites. My skills include HTML5, CSS3, JavaScript, and TypeScript.
+
+## What I Do:
+ ➡️ Build responsive websites that look great on any device
+
+ ➡️ Create reusable components for clean, maintainable code
+
+ ➡️ Manage state efficiently using React-Redux and Zustand
+
+ ➡️ Integrate backend APIs with Node.js
+
+ ➡️ Ensure high-quality code with testing tools like Jest and Cypress
+
+Feel free to get in touch if you have a project in mind. I’m always excited to work on new ideas!
+
 
 
 ###
