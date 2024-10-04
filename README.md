@@ -21,12 +21,21 @@ Feel free to get in touch if you have a project in mind. I’m always excited to
 
 
 ###
-<div style="display: flex; align-items: center; justify-content: center; background-color: #1d1f21;">
-  <a href="https://github.com/kashif-hussain6">
-    <img src="https://github-readme-stats.vercel.app/api?username=kashif-hussain6&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Kashif's GitHub Stats" style="height: 175px;"/>
-  </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" style="height: 175px; margin-left: 10px;" alt="languages graph"/>
+
+<h2>📊 Github Statistics</h2>
+
+<div style="display: flex; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=kashif-hussain6&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true" style="height:160px" alt="kashif-hussain6 GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kashif-hussain6&theme=midnight-purple&hide_border=false" style="height:160px" alt="kashif-hussain6's GitHub Stats" />
 </div>
+
+
+
+
+
+
+
+
 
 
 
