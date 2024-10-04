@@ -49,19 +49,16 @@ Feel free to get in touch if you have a project in mind. I’m always excited to
 
 
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
+## 🛠️ Technologies & Tools  
 
-</div>
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&color=informational)
+![](https://img.shields.io/badge/Code-EcmaScript-informational?style=flat&color=informational)
+![](https://img.shields.io/badge/Code-Node-informational?style=flat&color=informational&logo=node.js)
+![](https://img.shields.io/badge/Tool-Webpack-informational?style=flat&color=warning&logo=webpack)
+![](https://img.shields.io/badge/Tool-Jest-informational?style=flat&color=warning&logo=jest)
+![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&color=warning&logo=docker)
 
 ###
 ## Daily Dev Card 
